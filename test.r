@@ -6,3 +6,4 @@
 x <- 4+5
 print(paste("Das Ergebnis lautet: ",x))
 print(paste("Der doppelte Wert ist: ",2*x))
+print("Ende")
