@@ -1,6 +1,6 @@
 # Test Dokument
 # Autor: Rolf Moeckel, Technische Universität München
-# 6. May 2024
+# 6. May 2024, 13:30
 
 # Die Weltformel
 x <- 4+5
